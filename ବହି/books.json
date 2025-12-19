@@ -1,14 +1,14 @@
 [
     {
-    "destination": "https://imsbg.github.io/odiabhasa/bahi/all/op.json",
+    "destination": "https://imsbg.github.io/bahi/ବହି/ଖାତା/op.json",
     "version": 1
   },
      {
-    "destination": "https://imsbg.github.io/odiabhasa/bahi/all/amagouraba.json",
-    "version": 2
+    "destination": "https://imsbg.github.io/bahi/ବହି/ଖାତା/amagouraba.json",
+    "version": 1
   }, 
      {
-    "destination": "https://imsbg.github.io/odiabhasa/bahi/all/HasaKhusiGapa.json",
-    "version": 2
+    "destination": "https://imsbg.github.io/bahi/ବହି/ଖାତା/HasaKhusiGapa.json",
+    "version": 1
   }
 ]

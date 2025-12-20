@@ -5,7 +5,7 @@
   },
      {
     "destination": "https://imsbg.github.io/bahi/ବହି/ଖାତା/amagouraba.json",
-    "version": 1
+    "version": 2
   }, 
      {
     "destination": "https://imsbg.github.io/bahi/ବହି/ଖାତା/HasaKhusiGapa.json",
@@ -14,15 +14,5 @@
          {
     "destination": "https://imsbg.github.io/bahi/ବହି/ଖାତା/RabibaraChhutiSomabaraKuti.json",
     "version": 4
-  },
-
-        {
-    "destination": "https://imsbg.github.io/odiabhasa/bahi/all/kabitamala.json",
-    "version": 1
-  },
-        {
-    "destination": "https://imsbg.github.io/odiabhasa/bahi/all/amagouraba.json",
-    "version": 2
   }
-
 ]

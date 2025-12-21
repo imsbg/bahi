@@ -1,18 +1,18 @@
 [
     {
-    "destination": "https://imsbg.github.io/bahi/ବହି/ଖାତା/op.json",
+    "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/op.json",
     "version": 1
   },
      {
-    "destination": "https://imsbg.github.io/bahi/ବହି/ଖାତା/amagouraba.json",
+    "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/amagouraba.json",
     "version": 2
   }, 
      {
-    "destination": "https://imsbg.github.io/bahi/ବହି/ଖାତା/HasaKhusiGapa.json",
+    "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/HasaKhusiGapa.json",
     "version": 1
   },
          {
-    "destination": "https://imsbg.github.io/bahi/ବହି/ଖାତା/RabibaraChhutiSomabaraKuti.json",
+    "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/RabibaraChhutiSomabaraKuti.json",
     "version": 4
   }
 ]

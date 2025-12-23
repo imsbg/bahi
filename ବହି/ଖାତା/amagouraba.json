@@ -1,7 +1,7 @@
-{ 
+{
   "title": "ଆମ ଗୌରବ",
   "author": "ଜାତୀୟ ସଙ୍ଗୀତ ଓ ରାଜ୍ୟ ସଙ୍ଗୀତ",
-  "source": "",
+  "source": " ",
   "coverpage": "https://sbgb.pages.dev/ବହି/img/amagouraba.jpg",
   "pages": [
     {
@@ -15,7 +15,7 @@
           "type": "paragraph",
           "spans": [
             {
-              "text": " ",
+              "text": "ଜାତୀୟ ସଙ୍ଗୀତ ଓ ରାଜ୍ୟ ସଙ୍ଗୀତ",
               "style": "italic"
             }
           ]
@@ -24,7 +24,16 @@
           "type": "paragraph",
           "spans": [
             {
-              "text": "ଏଥିରେ ଅଛି : ଜନ ଗଣ ମନ\nବନ୍ଦେ ଉତ୍କଳ ଜନନୀ\nବନ୍ଦେ ମାତରମ୍",
+              "text": " ",
+              "style": "normal"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "text": "\n\nଏଥିରେ ଅଛି : ଜନ ଗଣ ମନ\nବନ୍ଦେ ଉତ୍କଳ ଜନନୀ\nବନ୍ଦେ ମାତରମ",
               "style": "normal"
             }
           ]
@@ -60,7 +69,7 @@
           "type": "paragraph",
           "spans": [
             {
-              "text": "୩. ବନ୍ଦେ ମାତରମ୍",
+              "text": "୩. ବନ୍ଦେ ମାତରମ",
               "style": "normal"
             }
           ]
@@ -100,8 +109,7 @@
             }
           ]
         }
-      ],
-      "audio": ""
+      ]
     },
     {
       "pageNumber": 4,
@@ -270,8 +278,7 @@
             }
           ]
         }
-      ],
-      "audio": ""
+      ]
     }
   ]
 }

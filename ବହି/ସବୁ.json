@@ -1,21 +1,24 @@
 [
-     {
+  {
     "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/amagouraba.json",
-    "version": 7
-  }, 
-    {
-    "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/op.json",
-    "version": 5
+    "version": 7,
+    "featured": "ପ୍ରଦର୍ଶିତ"
   },
-     {
+  {
+    "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/op.json",
+    "version": 5,
+  },
+  {
     "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/gk.json",
     "version": 3
+    "new": "yes"
+    "featured": "ପ୍ରଦର୍ଶିତ"
   },
-     {
+  {
     "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/HasaKhusiGapa.json",
-    "version": 2
+    "version": 2,
   },
-         {
+  {
     "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/RabibaraChhutiSomabaraKuti.json",
     "version": 5
   }

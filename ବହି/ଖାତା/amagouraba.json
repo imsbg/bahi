@@ -1,7 +1,7 @@
 {
   "title": "ଆମ ଗୌରବ",
   "author": "ଜାତୀୟ ସଙ୍ଗୀତ ଓ ରାଜ୍ୟ ସଙ୍ଗୀତ",
-  "source": "",
+  "source": " ",
   "coverpage": "https://sbgb.pages.dev/ବହି/img/amagouraba.jpg",
   "pages": [
     {
@@ -24,7 +24,7 @@
           "type": "paragraph",
           "spans": [
             {
-              "text": "ସୋର୍ସ",
+              "text": " ",
               "style": "normal"
             }
           ]
@@ -101,7 +101,8 @@
           ]
         }
       ],
-      "audio": "https://upload.wikimedia.org/wikipedia/commons/5/50/Jana_gana_mana_vocal.ogg"
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/5/50/Jana_gana_mana_vocal.ogg",
+      "lyrics": "https://sbgb.pages.dev/ବହି/lrc/jmg.lrc"
     },
     {
       "pageNumber": 4,

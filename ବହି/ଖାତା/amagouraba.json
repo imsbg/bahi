@@ -1,7 +1,7 @@
 {
   "title": "ଆମ ଗୌରବ",
   "author": "ଜାତୀୟ ସଙ୍ଗୀତ ଓ ରାଜ୍ୟ ସଙ୍ଗୀତ",
-  "source": " ",
+  "source": "",
   "coverpage": "https://sbgb.pages.dev/ବହି/img/amagouraba.jpg",
   "pages": [
     {
@@ -24,16 +24,7 @@
           "type": "paragraph",
           "spans": [
             {
-              "text": " - ",
-              "style": "normal"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "spans": [
-            {
-              "text": "\n\nଏଥିରେ ଅଛି : ଜନ ଗଣ ମନ\nବନ୍ଦେ ଉତ୍କଳ ଜନନୀ\nବନ୍ଦେ ମାତରମ",
+              "text": "ସୋର୍ସ",
               "style": "normal"
             }
           ]
@@ -109,7 +100,7 @@
             }
           ]
         }
-      ]
+      ],
       "audio": "https://upload.wikimedia.org/wikipedia/commons/5/50/Jana_gana_mana_vocal.ogg"
     },
     {

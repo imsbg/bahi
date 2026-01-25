@@ -17,6 +17,10 @@
     "version": 3,
     "new": "yes"
   },
+  {
+    "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/ଚାଲ-ଦେବା-ଭାଷଣ.json",
+    "version": 2
+  }
     {
     "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/RabibaraChhutiSomabaraKuti.json",
     "version": 11
@@ -24,9 +28,5 @@
   {
     "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/HasaKhusiGapa.json",
     "version": 3
-  },
-  {
-    "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/ଚାଲ-ଦେବା-ଭାଷଣ.json",
-    "version": 2
   }
 ]

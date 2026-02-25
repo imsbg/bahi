@@ -9,24 +9,23 @@
   },
       {
     "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/ଆମ-ସୌରଜଗତ.json",
-    "version": 3,
-    "new": "yes"
+    "version": 3
   },
   {
     "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/ଚାଲ-ଦେବା-ଭାଷଣ.json",
     "version": 2
   },
     {
-    "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/gk.json",
+    "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/HasaKhusiGapa.json",
     "version": 4,
     "new": "yes"
   },
     {
+    "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/gk.json",
+    "version": 4
+  },
+    {
     "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/RabibaraChhutiSomabaraKuti.json",
     "version": 11
-  },
-  {
-    "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/HasaKhusiGapa.json",
-    "version": 3
   }
 ]

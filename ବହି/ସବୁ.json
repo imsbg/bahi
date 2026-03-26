@@ -22,7 +22,8 @@
   },
     {
     "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/gk.json",
-    "version": 5
+    "version": 6,
+    "new": "yes"
   },
     {
     "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/RabibaraChhutiSomabaraKuti.json",

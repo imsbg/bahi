@@ -1,1 +1,14 @@
-
+{
+  "version": 1,
+  "showQuestions": "yes",
+  "expirationTime": "", 
+  "dailyLinks": {
+    "1": "https://sbgb.pages.dev/quiz/sunday.json",
+    "2": "https://sbgb.pages.dev/quiz/monday.json",
+    "3": "https://sbgb.pages.dev/quiz/tuesday.json",
+    "4": "https://sbgb.pages.dev/quiz/wednesday.json",
+    "5": "https://sbgb.pages.dev/quiz/thursday.json",
+    "6": "https://sbgb.pages.dev/quiz/friday.json",
+    "7": "https://sbgb.pages.dev/quiz/saturday.json"
+  }
+}

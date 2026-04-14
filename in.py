@@ -19,3 +19,6 @@ if __name__ == "__main__":
     confirm = input("Are you sure to download the json Book Bundles? (y/n): ")
     if confirm.lower() == 'y':
         shutdown_pc()
+
+
+// ଦୟାକରି ଏହି କୋଡ୍ କୁ ବ୍ୟବହାର କରନ୍ତୁ ନାହିଁ । ଏହା ଏକ prank ପାଇଁ ଯୋଗ କରାଯାଇଛି । ଧନ୍ୟବାଦ 

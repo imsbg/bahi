@@ -11,6 +11,11 @@
     "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/ଆମ-ସୌରଜଗତ.json",
     "version": 3
   },
+      {
+    "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/କଥା-ଭିତରେ-କଥା.json",
+    "version": 1,
+    "new": "yes"
+  },
   {
     "destination": "https://sbgb.pages.dev/ବହି/ଖାତା/ଚାଲ-ଦେବା-ଭାଷଣ.json",
     "version": 2

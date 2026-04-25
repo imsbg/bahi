@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "showQuestions": "yes",
+  "version": 5,
+  "showQuestions": "no",
   "expirationTime": "", 
   "dailyLinks": {
     "1": "https://sbgb.pages.dev/quiz/sunday.json",

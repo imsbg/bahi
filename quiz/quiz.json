@@ -1,7 +1,7 @@
 {
-  "version": 11,
+  "version": 13,
   "showQuestions": "yes",
-  "expirationTime": "", 
+  "expirationTime": "02-12-2026 23:59", 
   "dailyLinks": {
     "1": "https://sbgb.pages.dev/quiz/sunday.json",
     "2": "https://sbgb.pages.dev/quiz/monday.json",
